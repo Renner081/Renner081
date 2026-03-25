@@ -1,4 +1,4 @@
-# 👋 Fala aí! Eu sou Reninho
+# 👋 Óla tudo bem! Eu me chamo Renner
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🚀 Em busca de me tornar um desenvolvedor completo  
