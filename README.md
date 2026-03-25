@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://leviarista.github.io/github-profile-header-generator/"
-">
-</p>
 # 👋 Óla tudo bem! Eu me chamo Renner
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
