@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/ba0a3695-dd46-4421-a8ac-f4e3ce92c8fa" />
+  <img src="https://leviarista.github.io/github-profile-header-generator/"
 ">
 </p>
 # 👋 Óla tudo bem! Eu me chamo Renner
