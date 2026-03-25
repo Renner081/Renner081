@@ -1,4 +1,8 @@
 ## Hello, a im Renner, Wellcome my Github
+<hr>
+Sobre mim 
+Estudante de ads, focado em me tornar um desenvolvedor full-stack
+Atualmente aprendendo Html Css C++ e Java Github
 
 <!--
 **Renner081/Renner081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
