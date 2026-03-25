@@ -1,4 +1,5 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=Renner081&show_icons=true&theme=dark)
+  <img src="https://github.com/user-attachments/assets/e69a3b21-47ae-493a-9b86-934556235f1d" width="100%" alt="banner"/>
+
 # 👋 Óla tudo bem! Eu me chamo Renner
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
