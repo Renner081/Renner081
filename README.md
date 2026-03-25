@@ -16,9 +16,9 @@
 ---
 
 ## 📌 Projetos em destaque
-- 🔹 To-Do List  
-- 🔹 Portfólio pessoal  
-- 🔹 Sistema de Hotel (em desenvolvimento)  
+- 🔹   
+- 🔹   
+- 🔹  
 
 ---
 
@@ -35,7 +35,7 @@
 ---
 
 ## 📫 Contato
-- Email: seuemail@email.com  
+- Email: renner.luis123@gmail.com 
 
 ---
 
