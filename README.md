@@ -1,20 +1,43 @@
-## Hello, a im Renner, Wellcome my Github
-<hr>
-## Sobre mim 
-Estudante de ads, focado em me tornar um desenvolvedor full-stack
-Atualmente aprendendo Html Css C++ e Java Github
+# 👋 Fala aí! Eu sou Reninho
 
-<!--
-**Renner081/Renner081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Em busca de me tornar um desenvolvedor completo  
+📚 Atualmente aprendendo: HTML, CSS, JavaScript, C++  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias e Ferramentas
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+
+---
+
+## 📌 Projetos em destaque
+- 🔹 To-Do List  
+- 🔹 Portfólio pessoal  
+- 🔹 Sistema de Hotel (em desenvolvimento)  
+
+---
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+
+---
+
+## 🎯 Objetivos
+- Aprender mais sobre desenvolvimento web  
+- Criar projetos completos  
+- Conseguir uma oportunidade como desenvolvedor  
+
+---
+
+## 📫 Contato
+- Email: seuemail@email.com  
+
+---
+
+## ⚡ Curiosidade
+Sempre buscando evoluir e aprender algo novo todos os dias 🚀
