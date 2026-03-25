@@ -1,3 +1,4 @@
+![Stats](https://github-readme-stats.vercel.app/api?username=Renner081&show_icons=true&theme=dark)
 # 👋 Óla tudo bem! Eu me chamo Renner
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
