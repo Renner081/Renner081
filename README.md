@@ -17,9 +17,10 @@
 ---
 
 ## 📌 Projetos em destaque
-- 🔹   
-- 🔹   
-- 🔹  
+- 🔹   ## 📌 Projetos em destaque
+
+* 🔹 [Barbearia Barbershop](https://github.com/Renner081/projeto_Barbearia-Babershop) — Site de barbearia desenvolvido com HTML e CSS
+* 🔹 [Projeto Robocode](https://github.com/Renner081/Projeto_robocode) — Robôs de ataque e defesa criados em Java com Robocode
 
 ---
 
