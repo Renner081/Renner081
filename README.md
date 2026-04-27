@@ -1,4 +1,4 @@
-![bandeira](assets/github-header-banner .png)
+![bandeira](assets/banner.png)
 # 👋 Óla tudo bem! Eu me chamo Renner
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
