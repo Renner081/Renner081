@@ -1,5 +1,4 @@
-![Banner](<img width="2125" height="575" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/e74713ca-c5ea-442e-a3ab-697542fb3356" />
-)
+![Banner]()
 # 👋 Óla tudo bem! Eu me chamo Renner
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
